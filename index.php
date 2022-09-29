@@ -1,3 +1,3 @@
 <?php
 
-echo "Energy Dashboard2";
+echo "Energy Dashboard3";
